@@ -1,4 +1,5 @@
 # Guidelines for contributions
+All contributors of this proyect should respect the next general rules in order to mantaing a minimum organization of the proyect. This is important for submited contributions to be part of a repository of usefull and reusable scripts instead of converting this proyect in a bunch of unused and deprecated files.
 
 ## General directory structure
  * All script or program must be placed in a directory with a meaningfull name.
